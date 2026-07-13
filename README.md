@@ -20,7 +20,7 @@ This project tells that story through three decades of real Copernicus Marine Se
 
 ## Live Demo
 
-> Open `When_The_Water_Remembers_COMPLETE.html` in any modern browser.  
+> Open `When_The_Water_Remembers_by_Sunday_Kenneth_Shaho.html` in any modern browser.  
 > The file is fully self-contained — no internet connection required after download.
 
 ---
